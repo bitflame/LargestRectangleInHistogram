@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\LargestRectangleInHistogram\LargestRectangleInHistogram\bin\Debug\LargestRectangleInHistogram.exe.config
+C:\Users\usr\source\repos\LargestRectangleInHistogram\LargestRectangleInHistogram\bin\Debug\LargestRectangleInHistogram.exe
+C:\Users\usr\source\repos\LargestRectangleInHistogram\LargestRectangleInHistogram\bin\Debug\LargestRectangleInHistogram.pdb
+C:\Users\usr\source\repos\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.exe
+C:\Users\usr\source\repos\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.pdb
